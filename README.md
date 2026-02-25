@@ -166,4 +166,4 @@ python main.py
 ## 👨‍💻 Author
 
 Ibrahem Sayed  
-Ai & Machine Learning Engineer
+Ai & Computer Vision Engineer
