@@ -1,5 +1,4 @@
-# 🚦 Smart Traffic Monitoring System 
-- (YOLOv8-ByteTrack-OCR)
+# 🚦 Smart Traffic Monitoring System (YOLOv8 + ByteTrack + OCR)
 
 <h2 align="center">🚗 Safe Road - AI Traffic Monitoring System</h2>
 
