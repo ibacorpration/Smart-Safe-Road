@@ -1,5 +1,11 @@
 # 🚦 Smart Traffic Monitoring System (YOLOv8 + ByteTrack + OCR)
 
+<h2 align="center">🚗 Safe Road - AI Traffic System</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feab6498-f189-45de-92f9-57f04e0710df" width="800"/>
+</p>
+
 An end-to-end AI-based traffic monitoring system that performs real-time vehicle detection,
 tracking, speed estimation,violation detection, and Arabic license plate recognition.
 
