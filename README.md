@@ -3,7 +3,7 @@
 <h2 align="center">🚗 Safe Road - AI Traffic Monitoring System</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/feab6498-f189-45de-92f9-57f04e0710df" width="800"/>
+  <img src="https://github.com/user-attachments/assets/feab6498-f189-45de-92f9-57f04e0710df" width="700"/>
 </p>
 
 An end-to-end AI-based traffic monitoring system that performs real-time vehicle detection,
